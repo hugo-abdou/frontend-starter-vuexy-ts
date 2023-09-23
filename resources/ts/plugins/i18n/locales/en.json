@@ -1,0 +1,70 @@
+{
+  "Didn't get the mail?": "Didn't get the mail?",
+  "account_activation_title": "Verify your email ✉️",
+  "account_activation_subtitle": "Account activation link sent to your email address: {email} Please follow the link inside to continue.",
+  "Allowed-ext": "Allowed JPG, GIF or PNG. Max size of 800K",
+  "confirmation-msg-1": "Are you sure you want to delete this account?",
+  "confirmation-msg-2": "Once you delete this account, there is no going back. Please be certain.",
+  "confirmation-msg-3": "Are you sure you want to log Out From Other Browsers?",
+  "passwordRequirements_1": "Minimum 8 characters long - the more, the better",
+  "passwordRequirements_2": "At least one lowercase character",
+  "passwordRequirements_3": "At least one number, symbol, or whitespace character",
+  "Dashboard": "Dashboard",
+  "Users": "Users",
+  "Details": "Details",
+  "Username": "Username",
+  "Email": "Email",
+  "Role": "Role",
+  "Account": "Account",
+  "Security": "Security",
+  "Profile Details": "Profile Details",
+  "Upload new photo": "Upload new photo",
+  "First Name": "First Name",
+  "E-mail": "E-mail",
+  "Save changes": "Save changes",
+  "Reset": "Reset",
+  "Delete Account": "Delete Account",
+  "Deactivate Account": "Deactivate Account",
+  "Select Role": "Select Role",
+  "Items Per Page": "Items Per Page",
+  "Search": "Search",
+  "Add New User": "Add New User",
+  "Previous": "Previous",
+  "Next": "Next",
+  "Change Password": "Change Password",
+  "Current Password": "Current Password",
+  "Confirm password": "Confirm password",
+  "New Password": "New Password",
+  "Confirm New Password": "Confirm New Password",
+  "Password Requirements": "Password Requirements",
+  "Log Out Other Browsers": "Log Out Other Browsers",
+  "BROWSER": "BROWSER",
+  "IP": "IP",
+  "RECENT ACTIVITIES": "RECENT ACTIVITIES",
+  "$vuetify": {
+    "badge": "Badge",
+    "pagination": {
+      "ariaLabel": {
+        "root": "root",
+        "previous": "previous",
+        "next": "next",
+        "currentPage": "currentPage",
+        "page": "page"
+      }
+    },
+    "input": {
+      "clear": "clear",
+      "appendAction": "appendAction",
+      "prependAction": "prependAction",
+      "counterSize": "counterSize"
+    },
+    "fileInput": {
+      "counterSize": "counterSize"
+    },
+    "rating": {
+      "ariaLabel": {
+        "item": "item"
+      }
+    }
+  }
+}

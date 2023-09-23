@@ -1,0 +1,67 @@
+{
+  "Allowed-ext": "Autorisé JPG, GIF ou PNG. Taille maximale de 800K",
+  "confirmation-msg-1": "Êtes-vous sûr de vouloir supprimer ce compte ?",
+  "confirmation-msg-2": "Une fois que vous avez supprimé ce compte, il n'y a pas de retour en arrière possible. Soyez certain.",
+  "confirmation-msg-3": "Êtes-vous sûr de vouloir vous déconnecter des autres navigateurs ?",
+  "passwordRequirements_1": "Minimum 8 caractères - plus c'est mieux",
+  "passwordRequirements_2": "Au moins une minuscule",
+  "passwordRequirements_3": "Au moins un chiffre, un symbole ou un espace",
+  "Dashboard": "Tableau de bord",
+  "Users": "Utilisateurs",
+  "Details": "Détails",
+  "Username": "Nom d'utilisateur",
+  "Email": "Email",
+  "Role": "Rôle",
+  "Account": "Compte",
+  "Security": "Sécurité",
+  "Profile Details": "Détails du profil",
+  "Upload new photo": "Télécharger une nouvelle photo",
+  "First Name": "Prénom",
+  "E-mail": "E-mail",
+  "Save changes": "Enregistrer les modifications",
+  "Reset": "Réinitialiser",
+  "Delete Account": "Supprimer le compte",
+  "Deactivate Account": "Désactiver le compte",
+  "Select Role": "Sélectionner le rôle",
+  "Items Per Page": "Éléments par page",
+  "Search": "Rechercher",
+  "Add New User": "Ajouter un nouvel utilisateur",
+  "Previous": "Précédent",
+  "Next": "Suivant",
+  "Change Password": "Changer le mot de passe",
+  "Current Password": "Mot de passe actuel",
+  "Confirm password": "Confirm password",
+  "New Password": "Nouveau mot de passe",
+  "Confirm New Password": "Confirmer le nouveau mot de passe",
+  "Password Requirements": "Exigences du mot de passe",
+  "Log Out Other Browsers": "Déconnexion des autres navigateurs",
+  "BROWSER": "NAVIGATEUR",
+  "IP": "ADRESSE IP",
+  "RECENT ACTIVITIES": "ACTIVITÉS RÉCENTES",
+  "$vuetify": {
+    "badge": "Badge",
+    "pagination": {
+      "ariaLabel": {
+        "root": "racine",
+        "previous": "précédent",
+        "next": "suivant",
+        "currentPage": "page actuelle",
+        "page": "page"
+      }
+    },
+    "input": {
+      "clear": "effacer",
+      "appendAction": "ajouter une action",
+      "prependAction": "ajouter une action au début",
+      "counterSize": "taille du compteur"
+    },
+    "fileInput": {
+      "counterSize": "taille du compteur"
+    },
+    "rating": {
+      "ariaLabel": {
+        "item": "élément"
+      }
+    }
+  }
+}
